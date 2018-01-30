@@ -1,6 +1,7 @@
 # Web-Scraping
 Web scrapping job advertisements from Indeed
 
+# Introduction
 Web scrapping extracts web content, usually in the form of texture characters through looking at HTML. 
 It is a skill ought to be possessed by one working on data-related projects. 
 [Jesses Steinweg-Woods](https://jessesw.com/Data-Science-Skills/) wrote a post about extracting skills required by data scientist job advertisements on Indeed in 2015. 
