@@ -8,6 +8,6 @@ It is a skill ought to be possessed by one working on data-related projects.
 Since then, Indeed has changed the layout of their website, it's no longer plain HTML, but requires some \"interactions\" with the javascript. 
 Based on his idea, I wrote a code to enable the \"interactions\" and extract the job skills using Selenium.
 
-Head over to webscrap.ipynb for the code along with its descriptions. Enjoy!
+Head over to webscraping.ipynb for the code along with its descriptions. Enjoy!
 
 <img src=plot.png>
